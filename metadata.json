@@ -1,0 +1,7 @@
+{
+  "name": "Kurmanci Pure",
+  "description": "A gamified language purification app for Kurdish Kurmanci speakers to replace Arabic loanwords with authentic vocabulary.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
